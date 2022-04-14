@@ -1,0 +1,25 @@
+body
+{
+ background-size: cover;
+}
+button{
+    font-size: large;
+}
+#ok{
+    width: 100%;
+    color: crimson;
+    background-color: chartreuse;
+    margin:0;
+}
+#a{
+color: blue;
+border:darkviolet double ;
+width: fit-content;
+float:right;
+
+}
+.footer{
+    width: 100%;
+    margin-bottom:0% ;
+    background: rgb(139, 206, 101);
+}
